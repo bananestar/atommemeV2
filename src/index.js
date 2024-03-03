@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <React.StrictMode>
         <Navbar /> // Et ici aussi
-        <BDD />
+        <App />
     </React.StrictMode>
 );
 
